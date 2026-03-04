@@ -22,7 +22,7 @@ Building intelligent applications at the intersection of **AI agents**, **blockc
 ### AI & Machine Learning
 | Skill | Projects |
 |-------|----------|
-| LLM Integration (Groq, OpenAI, Cerebras) | AlterEgo, ASCEND |
+| LLM Integration (Groq, OpenAI, Cerebras) | All projects |
 | AI Agent Architecture | AlterEgo, ASCEND |
 | Opik AI Observability | AlterEgo, ASCEND |
 | LLM-as-a-Judge Systems | ASCEND |
