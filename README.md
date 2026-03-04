@@ -20,33 +20,33 @@ Building intelligent applications at the intersection of **AI agents**, **blockc
 ## 💼 Skills Matrix
 
 ### AI & Machine Learning
-| Skill | Proficiency | Projects |
-|-------|-------------|----------|
-| LLM Integration (Groq, OpenAI) | ⭐⭐⭐⭐⭐ | AlterEgo, ASCEND |
-| AI Agent Architecture | ⭐⭐⭐⭐⭐ | AlterEgo, ASCEND |
-| Opik AI Observability | ⭐⭐⭐⭐ | AlterEgo, ASCEND |
-| LLM-as-a-Judge Systems | ⭐⭐⭐⭐ | ASCEND |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ | All projects |
+| Skill | Projects |
+|-------|----------|
+| LLM Integration (Groq, OpenAI, Cerebras) | AlterEgo, ASCEND |
+| AI Agent Architecture | AlterEgo, ASCEND |
+| Opik AI Observability | AlterEgo, ASCEND |
+| LLM-as-a-Judge Systems | ASCEND |
+| Prompt Engineering | All projects |
 
 ### Web3 & Blockchain
-| Skill | Proficiency | Projects |
-|-------|-------------|----------|
-| Solidity Smart Contracts | ⭐⭐⭐⭐ | RTFM-Sovereign |
-| Stellar / Soroban | ⭐⭐⭐⭐ | MinesweeperZK |
-| Base (Coinbase L2) | ⭐⭐⭐ | Auto-Linkid |
-| EigenCloud / TEE | ⭐⭐⭐ | RTFM-Sovereign |
-| Zero-Knowledge Proofs (o1js) | ⭐⭐⭐ | MinesweeperZK |
-| EIP-712 Attestations | ⭐⭐⭐⭐ | RTFM-Sovereign |
+| Skill | Projects |
+|-------|----------|
+| Solidity Smart Contracts | RTFM-Sovereign |
+| Stellar / Soroban | MinesweeperZK |
+| Base (Coinbase L2) | Auto-Linkid |
+| EigenCloud / TEE | RTFM-Sovereign |
+| Zero-Knowledge Proofs (o1js) | MinesweeperZK |
+| EIP-712 Attestations | RTFM-Sovereign |
 
 ### Full-Stack Development
-| Skill | Proficiency | Projects |
-|-------|-------------|----------|
-| Next.js 14-16 | ⭐⭐⭐⭐⭐ | All projects |
-| TypeScript | ⭐⭐⭐⭐⭐ | All projects |
-| React 18-19 | ⭐⭐⭐⭐⭐ | All projects |
-| Supabase (PostgreSQL) | ⭐⭐⭐⭐ | ASCEND |
-| Tailwind CSS | ⭐⭐⭐⭐⭐ | All projects |
-| Rust (Soroban) | ⭐⭐⭐ | MinesweeperZK |
+| Skill | Projects |
+|-------|----------|
+| Next.js 14-16 | All projects |
+| TypeScript | All projects |
+| React 18-19 | All projects |
+| Supabase (PostgreSQL) | ASCEND |
+| Tailwind CSS | All projects |
+| Rust (Soroban) | MinesweeperZK |
 
 ### Tools & Platforms
 | Category | Tools |
