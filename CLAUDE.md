@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a **showcase/portfolio repository** for hackathon projects. It does not contain runnable code - instead, it documents and links to actual hackathon project repositories.
+This is a **showcase/portfolio repository** for hackathon projects, designed to be viewed by **HR/recruiters**. The main README.md is optimized for quick scanning with:
+- Skills matrix with proficiency ratings
+- Hackathon achievements and stats
+- Project deep dives with contributions
+- Clear role positioning (AI Engineer × Web3 Developer)
 
 ## Projects
 
