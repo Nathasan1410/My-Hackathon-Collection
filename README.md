@@ -154,21 +154,7 @@ Onchain application built on Base (Coinbase L2) to automate professional network
 ## 🛠️ Current Focus
 
 - **AI Agents**: Building autonomous agents for professional workflows
-- **ZK Applications**: Privacy-preserving computation on blockchain
 - **Observable AI**: Production-ready AI systems with full traceability
-
----
-
-## 📬 Let's Connect
-
-*Open to opportunities in AI Engineering, Web3 Development, and Full-Stack roles.*
-
-| Platform | Link |
-|----------|------|
-| GitHub | [github.com/Nathasan1410](https://github.com/Nathasan1410) |
-| LinkedIn | [Add your LinkedIn] |
-| Email | [Add your email] |
-| Portfolio | [Add portfolio if available] |
 
 ---
 
@@ -178,11 +164,6 @@ Onchain application built on Base (Coinbase L2) to automate professional network
 - **DoraHacks Builder** — Stellar Hacks: ZK Gaming (2026)
 - **EigenLayer Hacker** — EigenCloud OIC 2026
 - **Base Builder** — Base Indonesia Hackathon 2025
-
----
-
-> 💡 **Available for full-time roles starting [Date].**
-> *Interested in AI × Web3 opportunities where I can build production systems at scale.*
 
 ---
 
