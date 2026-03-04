@@ -17,49 +17,6 @@ Building intelligent applications at the intersection of **AI agents**, **blockc
 
 ---
 
-## 💼 Skills Matrix
-
-### AI & Machine Learning
-| Skill | Projects |
-|-------|----------|
-| LLM Integration (Groq, OpenAI, Cerebras) | All projects |
-| AI Agent Architecture | AlterEgo, ASCEND |
-| Opik AI Observability | AlterEgo, ASCEND |
-| LLM-as-a-Judge Systems | ASCEND |
-| Prompt Engineering | All projects |
-
-### Web3 & Blockchain
-| Skill | Projects |
-|-------|----------|
-| Solidity Smart Contracts | RTFM-Sovereign |
-| Stellar / Soroban | MinesweeperZK |
-| Base (Coinbase L2) | Auto-Linkid |
-| EigenCloud / TEE | RTFM-Sovereign |
-| Zero-Knowledge Proofs (o1js) | MinesweeperZK |
-| EIP-712 Attestations | RTFM-Sovereign |
-
-### Full-Stack Development
-| Skill | Projects |
-|-------|----------|
-| Next.js 14-16 | All projects |
-| TypeScript | All projects |
-| React 18-19 | All projects |
-| Supabase (PostgreSQL) | ASCEND |
-| Tailwind CSS | All projects |
-| Rust (Soroban) | MinesweeperZK |
-
-### Tools & Platforms
-| Category | Tools |
-|----------|-------|
-| **Version Control** | Git, GitHub |
-| **Deployment** | Vercel, EigenCloud |
-| **Database** | Supabase, PostgreSQL, Firebase |
-| **AI Tools** | Groq, OpenAI, Cerebras, Opik, Tavily |
-| **Web3 Tools** | ethers.js, viem, wagmi, Foundry |
-| **ZK Tools** | o1js, RISC Zero |
-
----
-
 ## 🏆 Hackathon Achievements
 
 ### By The Numbers
